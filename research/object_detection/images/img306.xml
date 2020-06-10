@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img306.jpg</filename>
+	<path>C:\Users\hp\Desktop\car_detection\images\img306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>117</ymin>
+			<xmax>473</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

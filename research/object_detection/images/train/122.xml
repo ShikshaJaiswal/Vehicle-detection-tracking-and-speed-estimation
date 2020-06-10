@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>122.jpg</filename>
+	<path>/home/peek-a-boo/Desktop/images/122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>138</ymin>
+			<xmax>474</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

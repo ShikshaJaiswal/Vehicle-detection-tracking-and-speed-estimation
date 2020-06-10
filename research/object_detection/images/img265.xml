@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img265.jpg</filename>
+	<path>C:\Users\hp\Desktop\car_detection\images\img265.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>52</ymin>
+			<xmax>595</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
